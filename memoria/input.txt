@@ -1,0 +1,9 @@
+Esto
+es 
+un 
+texto
+que
+deberá
+leer
+nuestro
+stream

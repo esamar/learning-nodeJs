@@ -43,7 +43,7 @@ bower_components
 build/Release
 
 # Dependency directories
-Curso Practico de Node.js/node_modules/
+curso_practico_nodejs/node_modules/
 jspm_packages/
 
 # TypeScript v1 declaration files

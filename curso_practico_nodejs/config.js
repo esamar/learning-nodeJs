@@ -26,8 +26,8 @@ module.exports = {
 
     },
     redis:{
-        host:process.env.REDIS_HOST || 'redis-17432.c10.us-east-1-3.ec2.cloud.redislabs.com',
-        port:process.env.REDIS_PORT || '17432',
-        password:process.env.REDIS_PASSWORD || 'vCou5nSOyg05iU6ZVsBNyGqmbbBti94g',
+        host:process.env.REDIS_HOST || '',
+        port:process.env.REDIS_PORT || '',
+        password:process.env.REDIS_PASSWORD || '',
     }
 }
